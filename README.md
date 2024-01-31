@@ -3,6 +3,7 @@
 ### Repository Overview 
 - All data regarding this analysis can be found in the folder labeled 'WeatherPy'.
 - Individual graphs and the CSV file of the collected data can be found in the 'output_data' folder inside 'WeatherPy'.
+- The script used to aggregate the data can be found in the folder labeled 'WeatherPy'
 
 ### Background 
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
