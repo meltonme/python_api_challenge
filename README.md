@@ -17,3 +17,20 @@ Overall, there is a strong correlation between the latitude of a city and it's M
 
 ![Latitude and Temperature](WeatherPy/output_data/Fig1.png)
 
+### City Latitude vs. Humidity
+
+When comparing the latitude to the humitity of a city, there is a noticeable weak correlation in both hemispheres in terms of humidity vs. latitude. This makes sense as humidity is based on a number of variables other than distance from the equator.
+
+![Latitude and Humidity](WeatherPy/output_data/Fig2.png)
+
+## City Latitude vs. Cloudiness 
+
+Out of all the relationships that I analyized, the correlation between cloudiness and the latitude location of a city is at most very weak. There is a very weak correlation between wind speed and latitude in the southern hemisphere. In the northern hemisphere, there is virtually no correlation. 
+
+![Latitude and Cloudiness](WeatherPy/output_data/Fig3.png)
+
+
+
+
+#Conclusion
+In conclusion, the most reliable way to predict weather conditions as we get closer or further away from the equator is to assume that as you get closer, the temperatures get higher and vise versa. 
