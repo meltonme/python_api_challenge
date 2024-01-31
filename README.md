@@ -2,7 +2,7 @@
 
 ### Repository Overview 
 - All data regarding this analysis can be found in the folder labeled 'WeatherPy'.
-- Individual graphs and other outputs can be found in the 'output_data' folder inside 'WeatherPy'.
+- Individual graphs and the CSV file of the collected data can be found in the 'output_data' folder inside 'WeatherPy'.
 
 ### Background 
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
@@ -25,9 +25,16 @@ When comparing the latitude to the humitity of a city, there is a noticeable wea
 
 ## City Latitude vs. Cloudiness 
 
-Out of all the relationships that I analyized, the correlation between cloudiness and the latitude location of a city is at most very weak. There is a very weak correlation between wind speed and latitude in the southern hemisphere. In the northern hemisphere, there is virtually no correlation. 
+As cloudiness is generally more based on weather patterns, there is a weak correlation between the latitude location of a city and cloudiness in both the nothern and southern hemisphere. 
 
 ![Latitude and Cloudiness](WeatherPy/output_data/Fig3.png)
+
+
+## City Latitude vs. Wind Speed 
+
+Out of all the relationships that I analyized, the correlation between cloudiness and the latitude location of a city is at most very weak. There is a very weak correlation between wind speed and latitude in the southern hemisphere. In the northern hemisphere, there is virtually no correlation. 
+
+![Latitude and WindSpeed](WeatherPy/output_data/Fig4.png)
 
 
 
