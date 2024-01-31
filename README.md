@@ -32,5 +32,5 @@ Out of all the relationships that I analyized, the correlation between cloudines
 
 
 
-#Conclusion
+# Conclusion
 In conclusion, the most reliable way to predict weather conditions as we get closer or further away from the equator is to assume that as you get closer, the temperatures get higher and vise versa. 
